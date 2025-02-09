@@ -1,0 +1,31 @@
+{
+  "build": "hfef2bbc_24",
+  "build_number": 24,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.42.34433"
+  ],
+  "extracted_package_dir": "C:\\Users\\NIBGE\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-hfef2bbc_24",
+  "files": [],
+  "fn": "vs2015_runtime-14.42.34433-hfef2bbc_24.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\NIBGE\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-hfef2bbc_24",
+    "type": 1
+  },
+  "md5": "117fcc5b86c48f3b322b0722258c7259",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\NIBGE\\anaconda3\\pkgs\\vs2015_runtime-14.42.34433-hfef2bbc_24.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "09102e0bd283af65772c052d85028410b0c31989b3cd96c260485d28e270836e",
+  "size": 17669,
+  "subdir": "win-64",
+  "timestamp": 1737627066000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.42.34433-hfef2bbc_24.conda",
+  "version": "14.42.34433"
+}

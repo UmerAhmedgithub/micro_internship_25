@@ -1,4 +1,4 @@
-prefix=C:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv/Library 
+prefix=c:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
@@ -8,4 +8,4 @@ Description: OpenSSL cryptography library
 Libs: -L"${libdir}" -llibcrypto
 Libs.private: -lcrypt32 -lws2_32
 Cflags: -I"${includedir}"
-Version: 3.0.15 
+Version: 3.4.0 

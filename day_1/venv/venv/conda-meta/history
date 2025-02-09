@@ -18,3 +18,51 @@
 +defaults/win-64::xz-5.4.6-h8cc25b3_1
 +defaults/win-64::zlib-1.2.13-h8cc25b3_1
 # update specs: ['python==3.12']
+==> 2025-02-09 13:13:55 <==
+# cmd: C:\Users\NIBGE\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix c:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv ipykernel -y
+# conda version: 24.11.3
+-defaults/win-64::ca-certificates-2024.12.31-haa95532_0
+-defaults/win-64::openssl-3.0.15-h827c3e9_0
+-defaults/win-64::vs2015_runtime-14.42.34433-he0abc0d_3
++conda-forge/noarch::asttokens-3.0.0-pyhd8ed1ab_1
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_1
++conda-forge/noarch::comm-0.2.2-pyhd8ed1ab_1
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_1
++conda-forge/noarch::exceptiongroup-1.2.2-pyhd8ed1ab_1
++conda-forge/noarch::executing-2.1.0-pyhd8ed1ab_1
++conda-forge/noarch::importlib-metadata-8.6.1-pyha770c72_0
++conda-forge/noarch::ipykernel-6.29.5-pyh4bbf305_0
++conda-forge/noarch::ipython-8.32.0-pyh9ab4c32_0
++conda-forge/noarch::jedi-0.19.2-pyhd8ed1ab_1
++conda-forge/noarch::jupyter_client-8.6.3-pyhd8ed1ab_1
++conda-forge/noarch::matplotlib-inline-0.1.7-pyhd8ed1ab_1
++conda-forge/noarch::nest-asyncio-1.6.0-pyhd8ed1ab_1
++conda-forge/noarch::packaging-24.2-pyhd8ed1ab_2
++conda-forge/noarch::parso-0.8.4-pyhd8ed1ab_1
++conda-forge/noarch::pickleshare-0.7.5-pyhd8ed1ab_1004
++conda-forge/noarch::platformdirs-4.3.6-pyhd8ed1ab_1
++conda-forge/noarch::prompt-toolkit-3.0.50-pyha770c72_0
++conda-forge/noarch::pure_eval-0.2.3-pyhd8ed1ab_1
++conda-forge/noarch::pygments-2.19.1-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.9.0.post0-pyhff2d567_1
++conda-forge/noarch::six-1.17.0-pyhd8ed1ab_0
++conda-forge/noarch::stack_data-0.6.3-pyhd8ed1ab_1
++conda-forge/noarch::traitlets-5.14.3-pyhd8ed1ab_1
++conda-forge/noarch::typing_extensions-4.12.2-pyha770c72_1
++conda-forge/noarch::wcwidth-0.2.13-pyhd8ed1ab_1
++conda-forge/noarch::zipp-3.21.0-pyhd8ed1ab_1
++conda-forge/win-64::ca-certificates-2025.1.31-h56e8100_0
++conda-forge/win-64::krb5-1.21.3-hdf4eb48_0
++conda-forge/win-64::libsodium-1.0.20-hc70643c_0
++conda-forge/win-64::openssl-3.4.0-ha4e3fda_1
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::vc14_runtime-14.42.34433-h6356254_24
++conda-forge/win-64::vs2015_runtime-14.42.34433-hfef2bbc_24
++conda-forge/win-64::zeromq-4.3.5-ha9f60a1_7
++defaults/win-64::debugpy-1.8.11-py312h5da7b33_0
++defaults/win-64::jupyter_core-5.7.2-py312haa95532_0
++defaults/win-64::psutil-5.9.0-py312h827c3e9_1
++defaults/win-64::pywin32-308-py312h5da7b33_0
++defaults/win-64::pyzmq-26.2.0-py312h5da7b33_0
++defaults/win-64::tornado-6.4.2-py312h827c3e9_0
+# update specs: ['ipykernel']

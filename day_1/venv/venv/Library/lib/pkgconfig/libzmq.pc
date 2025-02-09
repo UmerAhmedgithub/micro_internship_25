@@ -1,0 +1,12 @@
+prefix=c:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv/Library
+exec_prefix=c:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv/Library
+libdir=c:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv/Library/lib
+includedir=c:/Users/NIBGE/Desktop/micro_internship-25/day_1/venv/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
